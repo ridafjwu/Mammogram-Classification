@@ -1,3 +1,3 @@
 # Mammogram-Classification
 Breast cancer represents the most common cause of cancer deaths in women today and it is the most common type of cancer in women. Mammography is the only reliable method which isused to detect breast cancer in the early stage among all diagnostic methods available currently.Breast cancer is defined as an abnormal growth of cells in the breast that multiply uncontrollably.The main factors which cause breast cancer are either hormonal or genetic.Breast tumours can be either benign or malignant.
-Our solution is proposed to classify tumor as either Benign or Malginant Or its just a normal mammogram.
+Our solution is based on Probabilistic Neural Network proposed to classify tumor as either Benign or Malginant Or its just a normal mammogram.
